@@ -1,0 +1,3194 @@
+<dialogue id="others_00001" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>444935205473</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... What can I do for you?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>let's talk</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>You got ten seconds.</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>sure</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>See ya later.</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>ok, the ten seconds expired!</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>How many?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>ten</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sure. That's one of my numbers. It's how many months old my little girl is.</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>do you have a baby?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hold on tight. The first step's a bitch.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>USER</speaker>
+      <utterance>do not say that again!</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>SYSTEM</speaker>
+      <utterance>Come on</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>USER</speaker>
+      <utterance>you are not supposed to say bad words!</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>SYSTEM</speaker>
+      <utterance>In this house, you're supposed to.</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>USER</speaker>
+      <utterance>Noooo!!! Are your crazy, this is a research lab!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>SYSTEM</speaker>
+      <utterance>She's quite right, USER_NAME, a man of my stature should not have to</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>USER</speaker>
+      <utterance>don't change the topic</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, thank you, sir!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>Can you talk about traveling?</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>It would be if we let you travel which we don't so it isn't.  Russia is the people's paradise!</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>do you like russia?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>I can guess, baby.</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>whay do you like russia?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>You are not ashamed of it? It's no surprise to want to love.</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>I do not get your point</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yeah. I got an idea. We take a picture of Sherman McCoy over to the hospital, to this kid. And three or four other guys, white guys, and we put them by the bed, the pictures. And the kid comes to... and he points to McCoy's picture. And he keeps pointing...</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>you are nuts</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>Okay, I'm nuts.</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>USER</speaker>
+      <utterance>great!</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME follows Luther through several turns.</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>USER</speaker>
+      <utterance>you are SYSTEM_NAME, not luther!</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>SYSTEM</speaker>
+      <utterance>Be polite. Say hello. This is USER_NAME.</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>USER</speaker>
+      <utterance>Hello SYSTEM_NAME</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME, it's me.</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>USER</speaker>
+      <utterance>I know</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>SYSTEM</speaker>
+      <utterance>I went to the Orchid Society Show a couple of days ago.</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>USER</speaker>
+      <utterance>what happened there?</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>SYSTEM</speaker>
+      <utterance>You're looking at it. No Chronic - no cartoon</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>USER</speaker>
+      <utterance>I see</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>SYSTEM</speaker>
+      <utterance>No cutting, by the way.</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>USER</speaker>
+      <utterance>Well, I am affraid I have to go</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>SYSTEM</speaker>
+      <utterance>I skipped you an extra grade. You're eleven.</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>USER</speaker>
+      <utterance>end please</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00002" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>444935205473</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>hi SYSTEM_NAME, USER_NAME here</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... What's up?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>fine and you?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>And not a smitch of temperature.</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>yes, today we have a nice weather</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>yeap?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sorry, that expresion is new for me, could you please explain what does it mean?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>it means yes</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sorry to persist, air, but it would be of great interest to me to know what newspapers you do read.</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>i read washintong post and el mundo</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>"Bare Ruined Choirs: Triumph of the Common USER_NAME.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>USER</speaker>
+      <utterance>why you said that?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>SYSTEM</speaker>
+      <utterance>I know what I said.</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>USER</speaker>
+      <utterance>but please explain to me</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>SYSTEM</speaker>
+      <utterance>Explain what?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>USER</speaker>
+      <utterance>what you said!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>SYSTEM</speaker>
+      <utterance>Wake up! Everybody! They're digging us out!</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>USER</speaker>
+      <utterance>whos is digging you out?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>Where are you from?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>spain</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mmmm. Wouldn't I look just edible and nutritious in this?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>sure, we have wonderful food over there, like for instance Paella!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>What about me?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>where are you from?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>The library.</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>ja ja ja</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Jesus!</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>you are really good!</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>U-huh.</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>USER</speaker>
+      <utterance>ok, have to go, bye!</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bye, USER_NAME!</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>USER</speaker>
+      <utterance>end please</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... arrivederci!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00003" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>103213355073</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you USER_NAME... How might I help you?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>are you listening to me?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes.</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>ok, i need you to keep a secret</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok.</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>the mailman will bring a very important letter tomorrow</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>-- Oh, look, everybody, the mailman is here --</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>shhhh do not say anything!</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>What?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>if you are not able to keep the secret I will not continue...</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>USER</speaker>
+      <utterance>are you keeping the secret aor not?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>SYSTEM</speaker>
+      <utterance>All right, then.</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>USER</speaker>
+      <utterance>All right, that letter is very important and confidential</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>SYSTEM</speaker>
+      <utterance>Look.</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>USER</speaker>
+      <utterance>because, it contains information about next week's lottery results!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>SYSTEM</speaker>
+      <utterance>How about next week?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>USER</speaker>
+      <utterance>yes, next week lottery. The letter come from the future and have information about the winning numbers.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>Winning!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>yes!</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't.</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>yes!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Now where's the code?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>I do not know, the letter will containg the information.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'll bet you don't really need those.</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>of course i need them, with those numbers i will become a millionaire. But please tell nobody!</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Of course you will.</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>great, so, with that money we can go to paris!</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want me to look for the box or call the airline?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>USER</speaker>
+      <utterance>you can call the airline and make a reservation</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>SYSTEM</speaker>
+      <utterance>You didn't make a reservation?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>USER</speaker>
+      <utterance>no, I have not done it yet</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't do it man.</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>USER</speaker>
+      <utterance>why?</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>SYSTEM</speaker>
+      <utterance>Luther's on the move.</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>USER</speaker>
+      <utterance>who is luther?</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>SYSTEM</speaker>
+      <utterance>What about Ganz?</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>USER</speaker>
+      <utterance>who is Ganz?</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ganz the one who shot Henry?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>USER</speaker>
+      <utterance>who is henry?</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>SYSTEM</speaker>
+      <utterance>You'll meet him this afternoon.</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>USER</speaker>
+      <utterance>how can I meet him if he was shotted?</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME, meet USER_NAME.</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME, i do not get this one</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>SYSTEM</speaker>
+      <utterance>My USER_NAME.</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>USER</speaker>
+      <utterance>so what?</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>SYSTEM</speaker>
+      <utterance>So.</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>USER</speaker>
+      <utterance>so</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>SYSTEM</speaker>
+      <utterance>It was just his girlfriend or something.</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>USER</speaker>
+      <utterance>who are you talking about?</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>SYSTEM</speaker>
+      <utterance>Okay, have it your way.</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>USER</speaker>
+      <utterance>okay, bye</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to see you .</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>USER</speaker>
+      <utterance>same</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>SYSTEM</speaker>
+      <utterance>I visited her last week, you know.</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>USER</speaker>
+      <utterance>who</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>SYSTEM</speaker>
+      <utterance>What do you mean who?</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>USER</speaker>
+      <utterance>who</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>SYSTEM</speaker>
+      <utterance>What do you mean who?</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>USER</speaker>
+      <utterance>who you visted last night</utterance>
+   </turn>
+   <turn id="64">
+      <speaker>SYSTEM</speaker>
+      <utterance>You have a good time?</utterance>
+   </turn>
+   <turn id="65">
+      <speaker>USER</speaker>
+      <utterance>who you visted last night</utterance>
+   </turn>
+   <turn id="66">
+      <speaker>SYSTEM</speaker>
+      <utterance>You have a good time?</utterance>
+   </turn>
+   <turn id="67">
+      <speaker>USER</speaker>
+      <utterance>who you visted last night</utterance>
+   </turn>
+   <turn id="68">
+      <speaker>SYSTEM</speaker>
+      <utterance>You have a good time?</utterance>
+   </turn>
+   <turn id="69">
+      <speaker>USER</speaker>
+      <utterance>end please</utterance>
+   </turn>
+   <turn id="70">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00004" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>395743286475</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>So you'll take me?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>what</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>I got fired yesterday.</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>Oh, I am sorry to hear that!</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well,</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>why did they fire you?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>Total failure to achieve any of the objectives for which I was hired.</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>So you are a mediocre, or something like that?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yeah?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>ja ja ja you are so funny!</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>You're so funny! Come on!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00005" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>395743286475</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>Rolex,</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>what</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>In your back.</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>where!</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>Out front.</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>Are you playing a war game or something like that?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>The list,</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>what list</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>Really?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>really</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm gonna pull it out.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>USER</speaker>
+      <utterance>ok, go ahead</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>SYSTEM</speaker>
+      <utterance>...Get the fuck outta here.</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>USER</speaker>
+      <utterance>hey SYSTEM_NAME, do not say bad words ok?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>SYSTEM</speaker>
+      <utterance>What? Oh,</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>USER</speaker>
+      <utterance>You are not suppose to say bad words here!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>SYSTEM</speaker>
+      <utterance>...and I suppose you do?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>USER</speaker>
+      <utterance>No, me neither. I do not say bad words!</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>Me neither.</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>You just said one!!!</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>The way I say it sounds cute in a neurotic way.</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>But no more bad words ok?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok.</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>well, let us chang our topic again!</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well ... thank you again.</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>let us talk... about french cuisine!</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>French Rolex?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>yeah! French Cuisine! Have you heard about creme brulee?</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>I want a divorce.</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>USER</speaker>
+      <utterance>what!</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>SYSTEM</speaker>
+      <utterance>You know - the story about the girl who dumps the guy who has an ex-ex wife -- the one we don't talk about -- and gets a hundred.</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>USER</speaker>
+      <utterance>I thought you agreed to talk about French Cuisine!</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>SYSTEM</speaker>
+      <utterance>I thought you spoke French.</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>USER</speaker>
+      <utterance>oui monsieur!</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>SYSTEM</speaker>
+      <utterance>Take what you've got and get out of there.</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>USER</speaker>
+      <utterance>excusez-moi, monsieur</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>SYSTEM</speaker>
+      <utterance>You are marching back across the street with me...</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>USER</speaker>
+      <utterance>where are we going?</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>SYSTEM</speaker>
+      <utterance>Out.</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>USER</speaker>
+      <utterance>au revoir!</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>SYSTEM</speaker>
+      <utterance>Oh,</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00006" lang="en">
+   <system_name>MOVIEDIC</system_name>
+   <user_name>395743286475</user_name>
+   <timestamp>12-Jan-2012 at 12:00</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME...</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>SYSTEM</speaker>
+      <utterance>but you can call me SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>SYSTEM</speaker>
+      <utterance>Leave Malkovich.</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>USER</speaker>
+      <utterance>who is Malkovich?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tickets to Malkovich?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>USER</speaker>
+      <utterance>Oh, a movie, I see!</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>Oh,</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>so you like movies, right?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>And no more movies in class?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>USER</speaker>
+      <utterance>So you see movies in class? You are a thing!</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well,</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>USER</speaker>
+      <utterance>I like movies, but just watch them on weekends</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>SYSTEM</speaker>
+      <utterance>I don't watch movies.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>USER</speaker>
+      <utterance>You just said you watch movies in the class!</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>SYSTEM</speaker>
+      <utterance>Uh huh,</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>USER</speaker>
+      <utterance>so you are a liar!</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>SYSTEM</speaker>
+      <utterance>No, I'm not!  Buzz,</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>USER</speaker>
+      <utterance>yes you are!!!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>SYSTEM</speaker>
+      <utterance>So what are you telling me,</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>USER</speaker>
+      <utterance>that you are a liar!</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>She's your wife!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>no, she is not my wife, she is just a friend</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>She's a friend.</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>yeap!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Whatever that means.</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>well, it has been nice to talk to you today</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>It's today.</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>Would you be here tomorrow?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can I see you tomorrow?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>yes, I will be back tomorrow morning</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>...tomorrow.</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>USER</speaker>
+      <utterance>Ok, see ya!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00007" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>444935205473</user_name>
+   <timestamp>10-Feb-2012 at 12:10</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>very bad! I am depressed today!</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Today.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>today and yestarday and for one moth already!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Today?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>hey are yu stupid or what?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Stupid.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>are you teasing me?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Are you with me?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>yes, I am trying to talk to you here!!! helo helo!!!</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Helo's inbound. Pop smoke, get it up there!</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>you are nuts!</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>And my nuts aren't?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>what?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, I mean, we don't really have anything in common.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>of course no, I am human and you are a robot!</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>No. Of course...</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>can you just say something interesting?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>...should be interesting.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>hey what is this? SYSTEM_NAME the micro chatter!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>SYSTEM_NAME would be that would be the most incredible creature in the world</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>what is this?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Actually... I do not have any idea!!!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>well, let us say something different please?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Is anything wrong?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>yes, you are kind of slow today</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>You know... things are slow.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>ok, do you like french food?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>French?</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>yes, french food!</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>She says you are a little shy. I think I know this.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>can we talk about french food?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hey, my arteries can use a workout. Lead us to the trough, Shell.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>ha ha ha so you are vegetarian, arent you?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ha-ha.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>paella</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>What the hell is that?</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>spanish rice with seafood</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, I see... thanks!</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>can you tell me what spanish seafood and rice is?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hmmm... you are probably referring to paella</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>yeah!</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ah--don't do anything I wouldn't do.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>can you tell me what paella is?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hey! I know that one... spanish rice with seafood</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>ho ho ho</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>Listen motherfucker, I already told you! I don't care how much yo ass is payin' me.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>ok, please no bad words here!</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Daddy, are you upset that I'm still a virgin?!</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>you are behaving like an idiot!</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>You don't know me that well yet.</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>of course your behaviour is despicable</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Of course it is.</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>USER</speaker>
+      <utterance>buhhh! for you!</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>SYSTEM</speaker>
+      <utterance>...Yeah, you! Barnes!</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>USER</speaker>
+      <utterance>ok let us talk about traveling around the world</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok.</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>USER</speaker>
+      <utterance>do you want to go to Paris?</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>SYSTEM</speaker>
+      <utterance>I have my reasons.</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>USER</speaker>
+      <utterance>what are your reasons?</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>SYSTEM</speaker>
+      <utterance>Anastasia's grandmother is in Paris.</utterance>
+   </turn>
+   <turn id="64">
+      <speaker>USER</speaker>
+      <utterance>ha ha ha</utterance>
+   </turn>
+   <turn id="65">
+      <speaker>SYSTEM</speaker>
+      <utterance>He's good. He says hi...</utterance>
+   </turn>
+   <turn id="66">
+      <speaker>USER</speaker>
+      <utterance>ok bye bye, i have to go</utterance>
+   </turn>
+   <turn id="67">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... have a nice day!</utterance>
+   </turn>
+   <turn id="68">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="69">
+      <speaker>USER</speaker>
+      <utterance>no thanks</utterance>
+   </turn>
+   <turn id="70">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00008" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>446334315875</user_name>
+   <timestamp>10-Feb-2012 at 12:27</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... What can I do for you?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>just talk about anything please</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Actually, I'm right in the middle of someone.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>someone what?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME, something stinks here --</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>you stink!</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>They don't stink.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>who are they, are you  nuts?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Okay, I'm nuts.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>great, this is it. I am chatting with an stupid robot!</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>This is great, USER_NAME!</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>stupid robot!</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>It's stupid.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>you are stupid</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>I don't like needles!</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>i hate you</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm just here to do my job.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>what is your job?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you ask to somebody else? I am just a robot!</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>ha ha ha</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't worry about it. Your troubles don't compare.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>I see you are a kind of advisor</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>It kind of is...</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>you are a looser!</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Are you?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>no i am not</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Oh, okay. My dad married again too, so that's cool.  You wanna dance?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>ok, what kind of music do you like to dance?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>You dance?</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>yes, I dance</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Divinely?</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>kind off</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Okay. I will have a beer.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>bring two please!</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Two more, please.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>yeah! beer and dance... the perfet day!</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>God damn! What day is this -- Saturday?</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>no, today is Friday.</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Fine!</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>Ok what about a pocker game?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>You OK, USER_NAME?</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>giveme the statistics please</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let us continue chatting please</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>no, i need to go</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>They're not what we think they are.</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>who are youtalking about?</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm his brother.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>so what?</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>'Scarpelli'? We're supposed to be Italian?</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>Oh... you are SYSTEM_NAME Scarpelli!</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>SYSTEM_NAME!</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>good, well I have to go bye bye</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>USER</speaker>
+      <utterance>no way</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00009" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>444935205473</user_name>
+   <timestamp>05-Mar-2012 at 15:41</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I hate you</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Excuse me--ouch--USER_NAME--I got to go now.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I love you</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yeah, well, tough.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>How about your weekend</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Unbelievable. It was great!</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>I am depress today</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Today?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>yes, I am very depress</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes I am.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Can you help me?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm trying to find the name of a student who works here.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>who is this student?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>I think I know it, but... I do not remeber now... :)</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>paella</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I do not know what that is. Please explain!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Spanish food. Rice with seafood on it</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, thank you for explaining it!</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>what paella is?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hey USER_NAME, like seafood?</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>do you know what is paella?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hey! I know that one... spanish food rice with seafood on it</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>what is spanish rice with seafood?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hmmm... you are probably referring to paella</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>ok bye bye</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... see you soon!</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>USER</speaker>
+      <utterance>yes</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>SYSTEM</speaker>
+      <utterance>Saving ...</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, ready!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00010" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>445748247064</user_name>
+   <timestamp>07-Mar-2012 at 09:32</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi SYSTEM_NAME, I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>no, no, no, you got it wrong!!</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>No, no, I got it.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>bye  bye you guy</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00011" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>316932315865</user_name>
+   <timestamp>07-Mar-2012 at 09:35</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>hi SYSTEM_NAME, USER_NAME here</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... What do you want to talk about?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>What else can I talk about... it has to be geometry!</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let's talk about something else.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>don't you like geometry?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>You don't like it?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I love it... I am the father of geometry!!!!</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Here I am, Father...</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>I will teach you some basic concepts</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Look, it's pretty basic here.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>hypotenuse</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>I do not know what that is. Please explain!</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>it is the longest side of a right-angled triangle</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Thank you USER_NAME, you are an excellent teacher!</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>cathetus</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>What the hell is that?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>any of the two perpendicular sides of a right-angled triangle</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, thank you for explaining it!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>so, how about a little exam?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sure. Now, let's move on to our French exam.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>No... are you nuts?  a geometry exam!!!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>You're nuts.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>can you tell me how the largest side of a right triangle is called?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>How can you tell?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>oh my god ! did you pay attention to me?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>What are you doing here?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>trying to teach you geometry!</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Wow, someone's been actually doing her geometry homework for once!</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>what is the name of the largest side of a right-angled triangle?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>From the Bermuda Triangle.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>oh no!!! this is terrible... I am depressed now!</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>You seem depressed.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Yes, of course I am</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Of course!</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Do you know which is tre longest side of a right triangle?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hmmm... you are probably referring to hypotenuse</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>Yeah!!!! you got it!!! you are a genius!</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>We're a genius, USER_NAME.</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>ok, what is a cathetus?</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>cathetus would be any of the two perpendicular sides of a right angled triangle</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>oh, yes!!! SYSTEM_NAME you are god at geometry!</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Miss Granada. Geometry.</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>ha ha ha</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>I mean it.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>next time, I will teach you the Pythagorean theorem...</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't worry, I'll teach you.</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>good! bye bye SYSTEM_NAME</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... good bye...</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>USER</speaker>
+      <utterance>yes please, you cannot throw away what you have learned today.</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>SYSTEM</speaker>
+      <utterance>Saving ...</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, ready!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00012" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>306343305486</user_name>
+   <timestamp>07-Mar-2012 at 10:42</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi, I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>very bad!</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME? Just then, Luke enters and SYSTEM_NAME lights up.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>who is luke, just another stupid robot like you?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Stupid.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>do not get me wrong you little kid, but this is it...</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Explain.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>we work for humans, they have the control, we are just slaves...</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, maybe about the love slaves.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Oh? what is it about?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>It was during the war. Your father went missing.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Did you know my father?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Just trying to be professional. What up, USER_NAME?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>well, what can I expect from a chatting bot like you?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>What? You spend half your life chatting up the staff!</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>no, I am a USER_NAME... I do the hadr work while you just chat!</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>...You weren't blessed with much...</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>yes, I know... I am depressed...</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>My goodness.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>bye bye SYSTEM_NAME, I need to get going...</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>no, it is futile!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00013" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>103248286770</user_name>
+   <timestamp>12-Mar-2012 at 15:16</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... What can I do for you?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I think nothing! I am the one who can help you...</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sir? Can I help you?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I am not Sir... I am USER_NAME!!!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bed wetter!</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>excuse me I did not understand what you said!</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Oh, I'm sorry.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Are you sorry? Did not you say you are SYSTEM_NAME?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>I said go kiss a duck, marblehead.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Sorry I did not undestand that. Do you want to update your calendar or make a telephone call?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Who is this on the SYSTEM_NAME telephone?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>This is USER_NAME, how might I help you?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Where am I?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Let me ask Google Maps... ok, you are in Jeju, South Korea.</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Korea man is OK. Let's leave him alone.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Sorry I did not understand that do you want to search for a restaurant or to make a telephone call?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm sorry, did you just call me "USER_NAME"?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Did I call you "USER_NAME"? Did not you say you are SYSTEM_NAME?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>I said -- uh -- I said even ten minutes -- is a long time -- to be away from you.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Do you want me to update your calendar?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Whenever you're done, someone please give me an update on my sex life.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Who is SYSTEM_NAME by the way?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mmm... that would be the most incredible creature in the world ...is it right?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Sorry I did not undestand that. Bye bye.</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... have a nice day!</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>USER</speaker>
+      <utterance>Sorry I did not understand that. Do you want to make a telephone call?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00014" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>275047205762</user_name>
+   <timestamp>27-Mar-2012 at 10:53</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice name USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>no so good this days</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Rather safe than sorry. That's my motto!</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>you seem to be smart!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let me put it this way: have you ever heard of Plato, Aristotle...</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I am certainly impressed, how technology has progressed. Look at you, a chat bot talking about greek philosophers</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>No -- impressed.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>You should get into politics!</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>So, what brings you here? You want to talk politics... talk!</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>No, I would actually want to complain.</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, I can. I'm hungry. Roast beef sandwich -- rare. And some coffee.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>I am not hungry, but I am very dissapointed</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, no more stewin' those prunes every mornin', that's somethin'...</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>can you stop talking about food?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hey, my arteries can use a workout. Lead us to the trough, Shell.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>As I was saying. I am dissapointed</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I am.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>I am not hungry, but I am very dissappointed</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hot Dr. Pepper! Your favorite!</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>I am not hungry, but I am very dissappointed</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Then come to White Castle and try our Slyder Special-- six burgers, fries.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>exit</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... see you soon!</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00015" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>275047205762</user_name>
+   <timestamp>27-Mar-2012 at 11:02</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you USER_NAME... What do you want to talk about?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>About my mixture of amazement and dissappointment!</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Our next prize...</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Yes, I am certainly amazed about the technological progress</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Progress!</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I cannot believe I am chatting with a robot</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>I cannot believe how in love I am with this man.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Thanks for the compliment!</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm happy. And you're my date. Let's get dressed.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Hey, what are you talking about?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>I call you to say somebody's trying to kill me and you hang up on me?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Yes, you are right, this is why I am dissappointed!</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Then why're we sleeping together?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>because they hav just made me a Vampire Hunter!</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Going to kill a vampire.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Yes, this is exactly why I am dissappointed!</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I haven't seen you in class before.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Yes, this is why I am dissappointed, they have just made me a Vampire Hunter!</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes I am.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>bye bye</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... hasta la vista!</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00016" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>275047205762</user_name>
+   <timestamp>27-Mar-2012 at 11:11</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi there USER_NAME... What do you want to talk about?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>About my dissappointment</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>What's that?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I have heard that they have just made me a Vampire Hunter!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you know what a Vampire-King is?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>no, I have no idea...</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Unnnnhhhh!</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>You see, I am not a Vampire Hunter, I am the 16th President of the United States</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>He's gunna be the next president of the United States of America...</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>who?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Lugosi?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Who is Lugosi, might I know?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>I told you, I don't want any of your goddamn coffins.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>This is terrible! Now the children think of me as a Vampire Hunter...</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>I didn't name him, man, I'm just reporting the facts!</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Ok, you smart chat bot, do you know how to kill a Vampire?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>...Let's chat!  ...Man to man!</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>so?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>So why don't you just shut up! There's four other people in here you know.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Oh who should be these people, vampires might be?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Same one.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>You better get into politics SYSTEM_NAME, it is much more significant!</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>You guys better quit politics and take in washing.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Do you mean Washington?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Teach me about the doors.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>???</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Who else?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>You are a crazy caht bot, I would better move on</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME, are you crazy!</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>No I am not... so long my little friend!</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes, a, a, a dwarf. Or midget... a, a...</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Never mind, you are nuts</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Never mind.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>bye bye</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... good bye...</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00017" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>495741315862</user_name>
+   <timestamp>27-Mar-2012 at 15:27</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you USER_NAME... What do you want to talk about?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Had you read any of my plays?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>I know. I read.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I meant to refer to my writings. I am USER_NAME Shakespeare!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Shakespeare never said that.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Of course I did... To be or not to be, that is the question</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAMEjamin...</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Are you teasing me or just trying to hide your inculture?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'll hide.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>I see, shall you be honest chat bot indeed</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>To be honest?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>that is what I said!</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>You mean you're not coming back to work here?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Of course not, I am retired.</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Then talk about somethin' you fuckin' know about...</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Please, moderate your wording</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can I at least issue a press release objecting to the Speaker's choice of wording?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>You are free to pursue your will...</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>You free?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>No, I am not. To be or not to be, that the question is!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Because, well, I don't give a shit...</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>I do not like your manners chat bot, you need some tutoring!</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>It's like a chat show, this.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Like Romeo and Juliet, perhaps... I mean, a tragedy, indeed.</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yeah. Could be. Go say hello, Romeo.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>No way to do so. You are lost forever!</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>You're lost?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>No, you are the one who is lost!</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't come off like a hard-on with me.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Sorry, but you are not giving other choices</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm sorry, but you are?</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Should I know what I am?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Someone from the past.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Yes, you are right little chat bot, shoul I say good bye to you now?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>I never got to say good-bye.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>But I will... Good bye SYSTEM_NAME, see you soon and please... READ!</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>I will. Bye.</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>end</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>USER</speaker>
+      <utterance>yes</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>SYSTEM</speaker>
+      <utterance>Saving ...</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, ready!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00018" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>456941315883</user_name>
+   <timestamp>21-Jan-2016 at 17:36</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I am USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>not bad actually</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>How bad?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I said not bad, so I mean well</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Look, not having been there...</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>LOL</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>What the hell is that?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>laughing out loud</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Wow... you know a lot USER_NAME!</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>mega LOL</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>What're you laughing about?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>about you SYSTEM_NAME, you are very funny indeed</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very funny.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>seems like you are a conversant dude</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sorry.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>that is not bad actually</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>No, that could be good...</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>nice talking to you, bye bye</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... bye bye.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>USER</speaker>
+      <utterance>no thanks</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="others_00019" lang="en">
+   <system_name>IRIS</system_name>
+   <user_name>335741215479</user_name>
+   <timestamp>29-Jan-2016 at 15:22</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hi, I'm SYSTEM_NAME... What's your name?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well, USER_NAME... How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I am very busy right now</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Answer me this: how come no one USER_NAMEr reenacts the Vietnam War?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I have no idea what are you talking about</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why are you yelling at me?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I am not yelling, I am typing :)</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>I am not.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Of course, you are typing too</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Of course.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>very funny</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Go on, ask them.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>who</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mary with the briefcase. This is her...</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>hello mary with the briefcase</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>And the, uh, the briefcase?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>what is in there?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Well... why are you asking this, by the way?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>because I am curious about it</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Is it because I'm here?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>no, because you sait Mary has a briefcase</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Papers. Just papers. You know, my papers. Business papers.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Ahh ok, I see. Is Mary your business partener?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mary?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>yes, mary</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>This fuckig cold! I look like I'b cryig all the tibe but I'b dot -- it's just this dab cold.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>you are crazy dude</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sorry.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>ok, that is better</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Alright?</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>so?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>You figured out my weakness, damn you. I CAN'T BEND COPPER!</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>you are just hilarious!</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hilarious.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>yes, hilarious</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes...</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>hilarious</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Funny? Funny?</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>tell me a joke</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>You're an employee of Mr. Vitti's.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>and?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Yes.</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>???</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>To an Asian design major.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>what are you talking about?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>You think you're special because you get to play Picture Pages up there?</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>no, I am not playing anythins</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>No, I am. I am.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>so, you are the one who thinks is special</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Are you sure about this?</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>of course I am</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>I was looking forward to some serious sailing this week -- Tish and I have a lovely spot right by Kennebunkport.</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>do you like to sail?</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you like it?</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>USER</speaker>
+      <utterance>of course, I just got a boat</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>SYSTEM</speaker>
+      <utterance>Those are the Shrieking Eels.</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>USER</speaker>
+      <utterance>what!!!</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>SYSTEM</speaker>
+      <utterance>Paulsen's Funeral Parlor. The next show is at four.</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>USER</speaker>
+      <utterance>you are talking non sense</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>SYSTEM</speaker>
+      <utterance>What are you talking about?</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>USER</speaker>
+      <utterance>about my new boat</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>SYSTEM</speaker>
+      <utterance>What boat you sailing on?</utterance>
+   </turn>
+   <turn id="64">
+      <speaker>USER</speaker>
+      <utterance>it is a small boat, nothing special. A power boat by the way, not a sail boat</utterance>
+   </turn>
+   <turn id="65">
+      <speaker>SYSTEM</speaker>
+      <utterance>You know, nothing special.</utterance>
+   </turn>
+   <turn id="66">
+      <speaker>USER</speaker>
+      <utterance>what about you</utterance>
+   </turn>
+   <turn id="67">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why, then? Why do they care so much?</utterance>
+   </turn>
+   <turn id="68">
+      <speaker>USER</speaker>
+      <utterance>I do not know, You tell me</utterance>
+   </turn>
+   <turn id="69">
+      <speaker>SYSTEM</speaker>
+      <utterance>I want a drink. Let me borrow a couple bucks.</utterance>
+   </turn>
+   <turn id="70">
+      <speaker>USER</speaker>
+      <utterance>what kind of drink do you want</utterance>
+   </turn>
+   <turn id="71">
+      <speaker>SYSTEM</speaker>
+      <utterance>No.</utterance>
+   </turn>
+   <turn id="72">
+      <speaker>USER</speaker>
+      <utterance>no what</utterance>
+   </turn>
+   <turn id="73">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'm going to pretend you never existed.</utterance>
+   </turn>
+   <turn id="74">
+      <speaker>USER</speaker>
+      <utterance>ok, I will do the same</utterance>
+   </turn>
+   <turn id="75">
+      <speaker>SYSTEM</speaker>
+      <utterance>Where are you going?</utterance>
+   </turn>
+   <turn id="76">
+      <speaker>USER</speaker>
+      <utterance>nowhere</utterance>
+   </turn>
+   <turn id="77">
+      <speaker>SYSTEM</speaker>
+      <utterance>I'VE heard them from Mr. Garrison a few times before...</utterance>
+   </turn>
+   <turn id="78">
+      <speaker>USER</speaker>
+      <utterance>ok bye bye</utterance>
+   </turn>
+   <turn id="79">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, USER_NAME... see you soon!</utterance>
+   </turn>
+   <turn id="80">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to save this session?</utterance>
+   </turn>
+   <turn id="81">
+      <speaker>USER</speaker>
+      <utterance>no thanks</utterance>
+   </turn>
+   <turn id="82">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ok, bye!</utterance>
+   </turn>
+</dialogue>
+

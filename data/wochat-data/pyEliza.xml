@@ -1,0 +1,2754 @@
+<dialogue id="pyeliza_00001" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>355134237262</user_name>
+   <timestamp>2016-02-05 09:53:08,628</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME... What a nice name. How is it going?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </POSITIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>it is all right. how are you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>If I told you that it probably isn't, what would you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>What probably isn't? I am confused.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Because you confused me?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>What other reasons come to mind?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>I suppose there are none.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>You do, do you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>We should be discussing you, not me.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>That's fine. I wouldn't know what to ask you about you, anyway.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>That's fine. I wouldn't know what to ask you about you, anyway..</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Why do you repeat what I just said?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me the reason why do you repeat what I just said?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>I would, if I knew.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I would, if I knew..</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>There you go again!</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>I'm upset! What would a person do to get a proper conversation around here?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does being upset! What would a person do to get a proper conversation around here? make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>I'm pleased as punch, obviously.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you tell me you're?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>I'm what?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you think you're?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>I don't know, why do you think?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>What?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Because.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>I'm done here.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you tell me you're?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Bye.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00002" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-13 10:22:36,688</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME... What a nice name. How is it going?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </POSITIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>fine. thanks. and what about you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I don't think so.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>because I was just asking you how you you were going</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>What other reasons come to mind?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>no other reason</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>so are you unable to answer question</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </NEGATIVE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>what's your name?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Please consider whether you can answer your own question.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>why</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let's change focus a bit... Tell me about your family.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>only if you tell me first about your family</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>nothning. it's a game</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>nothing. it's a game</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>it's not the game</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00003" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-13 10:27:18,343</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>I'm USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Great M USER_NAME, How are you doing today?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>uh?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>my name is USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see, your name is USER_NAME.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Hi SYSTEM_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>nothing. it's a greeting</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>and you hould answer like that.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>i don't feel anuything</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>and you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>what about you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>What do you think?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>nothing</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>nothing</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Sure. So what now</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00004" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-14 13:43:36,627</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi SYSTEM_NAME. I'm USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>I am not sure if we have already met SYSTEM_NAME m USER_NAME, but anyway... What can I do for you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Nothing. We may just speak together if you want</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>what?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>why whatN</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me the reason why whatN?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>you don't answer to my questions.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you care whether I?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>you what?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>We should be discussing you, not me.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Aaaaah I didn't know</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that Aaaaah I didn't know?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>because I understood just now that you want to discuss me and not you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Is that the real reason?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>yes</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>OK, but can you elaborate a bit?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>that I'm a slow thinker</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>nothing special</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00005" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>305838235865</user_name>
+   <timestamp>2016-02-08 12:21:13,132</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you USER_NAME! What do you want to talk about?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>hello SYSTEM_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, how are you feeling today?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>I am feeling cold</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel about being?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I don't know</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Don't you really?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>yeah really</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>I am feeling a bit sad</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>How long have you been?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>2 minutes</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>I feel like a monster</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>When you feel, what do you do?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>usually, I go outside and have a walk</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>I really like to think when walkin</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>good</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>I am feeling good when enjoying nature</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </POSITIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>How long have you been?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>i don't know</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you want to?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>I really can't say</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>I really can't say.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>yeah</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>sad</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>I want to live</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </POSITIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>What would it mean to you if you got?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00006" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>305838235865</user_name>
+   <timestamp>2016-02-09 09:34:04,548</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hi SYSTEM_NAME!</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>I am not sure if we have already met SYSTEM_NAME, but anyway... How are you doing today?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I am feeling sick</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Did you come to me because you are?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>not really</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I don't know</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>because I am sick and I can't think properly</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </NEGATIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>What other reasons come to mind?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>I am a bit curious about you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel about being?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>about being what?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>I believe so</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>is it?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do you think it is?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>I think that you think it is</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>But you're not sure?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>well, no</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </NEGATIVE> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>isn't it?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>sure</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Please tell me more.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>I have to get back to work</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you tell me that you've?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>because I want to know your feeling about all this</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>If I want to know your feeling about all this, what else must be true?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>everything</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>a bit impressed</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00007" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>305838235865</user_name>
+   <timestamp>2016-02-11 10:26:45,932</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>USER_NAME... What a nice name. How are you doing today?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> </POSITIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I am working!</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Did you come to me because you are?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>yes indeed</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>You seem quite sure.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>I am studying you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel about being?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>interested</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>normal</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> </OFFENSIVE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>normal</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>indeed</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>how are you today?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>What is it you're really asking?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>I would like to know more about you</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Who else knows that you would?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>nothing</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let's change focus a bit... Tell me about your family.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>my family is well</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>When your, how do you feel?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>good</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </VALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </ACCEPTABLE> </POSITIVE> 
+      </annotator>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Very interesting.</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </ACCEPTABLE> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </VALID> 
+      </annotator>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see. And what does that tell you?</utterance>
+      <annotator id="wochat-wifwfkfjporpp">
+         </INVALID> 
+      </annotator>
+      <annotator id="wochat-i847bfgeyrbfd">
+         </INVALID> 
+      </annotator>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00008" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-25 14:38:34,864</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>hi SYSTEM_NAME. I'm USER_NAME.</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you SYSTEM_NAME m USER_NAME! Whats up?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>I'm fine. Nothing new. And what about you?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you tell me you're fine. Nothing new. And what about you?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>If you don't want to talk, just say it. You don't need to be so agressive</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>annoyed</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>that's the seconde time you ask the same question. Do you have a problem?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>what?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask that?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>uh?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>what?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>or yourself</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>you know what, I'm happy</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>We should be discussing you, not me.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>I'm was talking about my happiness</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does being make you feel?</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>what is that?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>What do you think?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>that you don't understand me</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let's change focus a bit... Tell me about your family.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00009" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-26 22:06:54,525</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Hello. I'm USER_NAME. Nice to meet you.</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Great M USER_NAME nice to meet you, How is it going?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Good. And what about you?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps the answer lies within yourself?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>No I'm sure. the answers lies within yourself</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>what do you think?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>because</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>what do you think?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>What do you think?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Nothing.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nothing..</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>How does that make you feel?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>maybe you should ask yourself</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Let's change focus a bit... Tell me about your family.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>what do you want to know?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>How would an answer to that help you?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>it would help me to decide what i should tell you</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>uh?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>because i have to go now</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>If, what else must be true?</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="pyeliza_00010" lang="en">
+   <system_name>PYELIZA</system_name>
+   <user_name>294945386467</user_name>
+   <timestamp>2016-02-28 10:52:40,990</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hello, my name is SYSTEM_NAME. Please tell me your name.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>USER_NAME</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nice to meet you USER_NAME! How are you doing today?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>everythong is fine</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>fine</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>not much</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Can you elaborate on that?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>no</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you say that?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>because I have no ida how to elaborate on such affirmation</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>If I have no ida how to elaborate on such affirmation, what else must be true?</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>I don't know</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>because I have no idea</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>What other reasons come to mind?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>none</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Please tell me more.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>about the fact that I have no idea?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why don't you tell me?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>because I have nothing more to say.</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Is that the real reason?</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Yes. And what about you? Why don't we chabge the topic?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>OK, but can you elaborate a bit?</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>How do you feel when you say that?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Perhaps you can answer your own question.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>and can you elaborate on that?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Why do you ask that?</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>you agree on changing the topic. So now it's your turn to answer questions</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>We should be discussing you, not me.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>bye</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>I see.</utterance>
+   </turn>
+</dialogue>
+

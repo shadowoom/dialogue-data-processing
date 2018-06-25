@@ -1,0 +1,2338 @@
+<dialogue id="politician_00001" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_08-27-35</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Dobrý den, jak se máte?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mám se výtečně, děkuji za optání.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o islámském státu?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>A jaký je váš názor na zemědělství?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Můj názor je zcela v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>A na zdravotnictví?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Víte, kdo je ministrem obrany ČR?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Už jsme odhlasovali vytvoření speciální komise, která se bude ministrem zabývat. Počkejme si na její závěry.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00002" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_08-36-45</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Předpokládám, že máte nějakou otázku?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>To předpokládáte špatně.</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Jak se díváte na problém imigrace?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Imigraci jsme rozebírali na včerejší schůzi a dokud se nedozvím stanovisko vedení strany, nemohu se k ní vyjadřovat.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>A co si myslíte o současném premiérovi?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>A co Andrej Babiš, máte ho rád?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Babiš má mou plnou podporu.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Vážně?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>A co Zeman?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zeman je pro mě velkou inspirací.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Jak byste řešil problém Řecka?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Podle mě těžko najdete větší díru než Řecko.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>To si opravdu myslíte?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>V jaké jste vlastně straně?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Aha. To ledacos vysvětluje.</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00003" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_09-32-04</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zdravím vás. Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Jaká je Vaše volební kampaň?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Vysvětlete ten skandál minulý rok.</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Co jsi měl včera k obědu?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00004" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_09-44-45</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zdravím vás. Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>caco si myslís o uprchlících</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>co si myslíš o uprchlících?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Můžu jít na oběd?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>uasiufh?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Na koho se tet koukám?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Kdo te naprogramoval?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>kolik ti je?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Jak se menuješ?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Jak se jmenuješ?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mé jméno je Humphrey Novotný.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Tak co Babiš?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>A co Zeman?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zeman je člověk na svém místě.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>A co Sobotka?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podle mě těžko najdete větší díru než Sobotka.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>A co Krnáčová?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Krnáčová potřebuje odbornou pomoc.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>A co Klaus?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Klause si vážíme nejvíce když mlčí.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>A co Stropnický?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Stropnický je můj velký vzor.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>A co Bělobrádek?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bělobrádek je pro mě velkou inspirací.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>A co Havel?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Havel má mou plnou podporu.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>A co Kalousek?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>A co islámský stát?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Islamistů se nelekejme a na množství nehleďme! A dál bych se k tomu raději nevyjadřoval.</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o českém zdravotnictví?</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>Jak byste řešil finanční krizi?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nemyslím si, že krize patří k nejpalčivějším tématům.</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>A co Řecko?</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tam jsem nikdy nebyl.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>Proč?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>Jaký máte názor na uprhlíky?</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nemyslím si, že na něčem takovém by záleželo.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>Jsi dobrý politik?</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>Mé.</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>Mé.</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Malá změna taky změna, tak nějakou zkuste.</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>USER</speaker>
+      <utterance>Méé.</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>USER</speaker>
+      <utterance>Máte rád špagety?</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>USER</speaker>
+      <utterance>Myslíte?</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>USER</speaker>
+      <utterance>Jak ccete zařídit, abyste byl v příštích volbách zvolen?</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>SYSTEM</speaker>
+      <utterance>Prostě to zařídíme.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00005" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_10-32-31</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Předpokládám, že máte nějakou otázku?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>hodláte zvýšit či snížit daně?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Nemyslím si, že daně patří k nejpalčivějším tématům.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>já myslím že ano</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>váš názor na uprchlíky?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Nemyslím si, že na něčem takovém by záleželo.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>mně ano</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Jakse máte</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Opravdu už se nechcete zeptat na nic dalšího?</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Kolik vyděláváte měsíčně?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Bez komentáře.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>je machů borec?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00006" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_10-39-52</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Jak byste definoval českou politiku jedním slovem?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Jak byste definoval českou politiku jedním slovem?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte, takhle by to nešlo. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>jak bzste definoval českou politiku jedním slovem?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Bugnete se někdy?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Jste normální?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Bez komentáře.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Dáte si kafíčko?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>znáte paní profesorku Královou?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Králová je můj velký vzor.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Tak to máte blbé... A co děláte právě teď?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Jak byste se vzjádřil k podstatě 4.M?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Koukám že se vyznáte... Kolik vám je let?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Vážně?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Jste ženatý?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Znáte Yemana?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>A Zemana?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Zeman má mou plnou podporu.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>znáte se osobně s Láďou Hruškou?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hrušky si vážíme nejvíce když mlčí.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Vážně?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Malá změna taky změna, tak nějakou zkuste.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Vystřelil jste kachničku z obrazovky?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Kdo jste?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Bez komentáře.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>takže Bey Komentáři jak se vám vede?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bey potřebuje odbornou pomoc.</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>aspoň že si to přiznáte</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>Jakého úkolníčku?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>Kde je úkolníček?</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>Kopal jstehrob pro Zemana?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>Já taky... Máte doma Motorovku?</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>Spadl jste někdy z lustru?</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>Očekávám?</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>Kdo vás naprogramoval?</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>USER</speaker>
+      <utterance>Jste genius?</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>USER</speaker>
+      <utterance>Koupal jste někdy kočku?</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>USER</speaker>
+      <utterance>budete kandidovat na Preyidenta?</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>USER</speaker>
+      <utterance>Kolikrát jste zakopl ve své volební kampani?</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Mě kampaň nezajímá, ale jsem si jist, že to na vládě důkladně projednáme.</utterance>
+   </turn>
+   <turn id="64">
+      <speaker>USER</speaker>
+      <utterance>Ježíš táhne na Berlín!!!</utterance>
+   </turn>
+   <turn id="65">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="66">
+      <speaker>USER</speaker>
+      <utterance>Došli vám odpovědi?</utterance>
+   </turn>
+   <turn id="67">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="68">
+      <speaker>USER</speaker>
+      <utterance>Bavím vás?</utterance>
+   </turn>
+   <turn id="69">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="70">
+      <speaker>USER</speaker>
+      <utterance>Vážně?</utterance>
+   </turn>
+   <turn id="71">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+   <turn id="72">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="73">
+      <speaker>SYSTEM</speaker>
+      <utterance>Opravdu už se nechcete zeptat na nic dalšího?</utterance>
+   </turn>
+   <turn id="74">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="75">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte, takhle by to nešlo. Malá změna taky změna, tak nějakou zkuste.</utterance>
+   </turn>
+   <turn id="76">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="77">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Malá změna taky změna, tak nějakou zkuste.</utterance>
+   </turn>
+   <turn id="78">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="79">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte, takhle by to nešlo. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+   <turn id="80">
+      <speaker>USER</speaker>
+      <utterance>Znáte mě?</utterance>
+   </turn>
+   <turn id="81">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="82">
+      <speaker>USER</speaker>
+      <utterance>Další?</utterance>
+   </turn>
+   <turn id="83">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="84">
+      <speaker>USER</speaker>
+      <utterance>Proč?</utterance>
+   </turn>
+   <turn id="85">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="86">
+      <speaker>USER</speaker>
+      <utterance>Kolik občanů Vás volilo?</utterance>
+   </turn>
+   <turn id="87">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Vzhledem k současným problémům považuji občany za nepodstatné.</utterance>
+   </turn>
+   <turn id="88">
+      <speaker>USER</speaker>
+      <utterance>Mzjsme jako vyduch?</utterance>
+   </turn>
+   <turn id="89">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="90">
+      <speaker>USER</speaker>
+      <utterance>Kdo je lepší? Zeman či Sobotka?</utterance>
+   </turn>
+   <turn id="91">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zeman je pro mě velkou inspirací.</utterance>
+   </turn>
+   <turn id="92">
+      <speaker>USER</speaker>
+      <utterance>A Sobotka co?</utterance>
+   </turn>
+   <turn id="93">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Tam jsem nikdy nebyl.</utterance>
+   </turn>
+   <turn id="94">
+      <speaker>USER</speaker>
+      <utterance>A co Kadaň tam jste bzl?</utterance>
+   </turn>
+   <turn id="95">
+      <speaker>SYSTEM</speaker>
+      <utterance>Kadaň je moc hezké místo. Rád si tam jezdím odpočinout.</utterance>
+   </turn>
+   <turn id="96">
+      <speaker>USER</speaker>
+      <utterance>A Sobotka?</utterance>
+   </turn>
+   <turn id="97">
+      <speaker>SYSTEM</speaker>
+      <utterance>V Sobotce příští týden pořádám besedu.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00007" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_10-58-01</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Co vám včera řekl Sobotka?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sobotka má mou plnou podporu.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>jak se vám líbila Sobotka?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Sobotka je moc hezké místo. Rád si tam jezdím odpočinout.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Kdo jsi?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Kdo jste?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Proč zapíráte?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Kolik je hodin?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Vlastníte velkou fialovou Krávu?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Líbí se vám Zeman?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>A Sobotka se vám Líbí?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>V Sobotce bývá zjara krásně. Moc se mi tam líbí.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Líbí se vám Náš Politi</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Líbíse vám politik Sobotka?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Sobotka je člověk na svém místě.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Kolik bzlo hodin včera touto dobou?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Jaká je podstata života?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Bzl jste někdz na houbách?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Znáte Paní profesorku Jirošovou?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Jirošové si vážíme nejvíce když mlčí.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o děkanovi?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Kolik mám prstů</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Jaká je podstata života?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte, takhle by to nešlo. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00008" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_11-09-39</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš názor na prezidenta Zemana?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zeman je člověk na svém místě.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš názor na situaci s uprchlíky?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Můj názor je zcela v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Evropské unii?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>JAKÁ JE VAŠE KOMPETENCE?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>VÁŽNĚ?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Jaké je vaše jméno?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Odpovídáte čistě náhodně?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Kolik máte spolustraníků ve sněmovně?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mě sněmovna nezajímá, ale jsem si jist, že to na vládě důkladně projednáme.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Koho na vládě reprwyentujete?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Už jsme odhlasovali vytvoření speciální komise, která se bude vládou zabývat. Počkejme si na její závěry.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Jaké jídlovám nejvíce chutná?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Máte manželku?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Co byste dělal, kdyby vám Sobotka řekl, že jste demagog?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Co byste dělal, kdyby vypukla apokalipsa?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Co byste dělal, kdyby vybuchla atomovka pod vaší postelí?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Kdo vás povolal na tuto konferenci?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Konference je plodem našeho mnohaletého úsilí.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00009" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_11-27-55</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Předpokládám, že máte nějakou otázku?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Jak se podle váš vydaří dnešní den?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Má podle vás Evropská unie budoucnost?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Unie je sice důležitá, ale musíme se na celý problém podívat z globální perspektivy.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Plánuje se stavba dalšího "tunelu"?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Už jsme odhlasovali vytvoření speciální komise, která se bude tunelem zabývat. Počkejme si na její závěry.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00010" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_12-22-49</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Jaký je smysl života?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš názor na Prahu?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>V Praze bývá zjara krásně. Moc se mi tam líbí.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Karlovi Gottovi?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Gott je můj velký vzor.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Kolik vám je?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Kolik vám je let?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš věk?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Jednadvacet už mi bylo a dál je to moje věc.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Jakou politickou stranu preferujete?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Znáte nějaké sprosté slovo?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Jaká je odpověď na otázku života, vesmíru a všeho?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>42.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Zvolil bys Pufa?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>:)</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Brně?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tam jsem nikdy nebyl.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Bučovicívh?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Bučovicích?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do Bučovic se chystám na služební cestu, abych tamní situaci dokázal kompetentně posoudit.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o Ostravě?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ostrava je moc hezké místo. Rád si tam jezdím odpočinout.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Máte rád Kroměříž?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Kroměříž má své vlastní problémy, které my zde nedokážeme posoudit.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Vlasta Janků</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Vlasta Janků?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>Kdo je Vlasta Janků?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>Co si nemyslíte o Hradci Králové?</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Jó, Hradec, tamtudy už jsem jednou před lety projížděl.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>Jezdíte šalinou?</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>Chcete si udělat s námi selfie?</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Prostě to uděláme.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>Měla by být maturita z informatiky povinná?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>Měla by být maturita z informatiky povinná???</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>Na kolik desetinnýchm íst umíte Pí?</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>Kolik jste pro svou volební kampaň zabil lidí?</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vzhledem k současným problémům považuji kampaň za nepodstatnou.</utterance>
+   </turn>
+   <turn id="54">
+      <speaker>USER</speaker>
+      <utterance>Pro co jste ty lidi zabil?</utterance>
+   </turn>
+   <turn id="55">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="56">
+      <speaker>USER</speaker>
+      <utterance>Proč jste ty lidi tak brutálně zabil? Není to nelegální?</utterance>
+   </turn>
+   <turn id="57">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="58">
+      <speaker>USER</speaker>
+      <utterance>Tak kam jste ty mrtvoly schoval?</utterance>
+   </turn>
+   <turn id="59">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="60">
+      <speaker>USER</speaker>
+      <utterance>Jaká je odpověď na otázku života?</utterance>
+   </turn>
+   <turn id="61">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="62">
+      <speaker>USER</speaker>
+      <utterance>Jaká je odpověď na otázku života, vesmíru a dalších nepodstatných věcí?</utterance>
+   </turn>
+   <turn id="63">
+      <speaker>SYSTEM</speaker>
+      <utterance>42.</utterance>
+   </turn>
+   <turn id="64">
+      <speaker>USER</speaker>
+      <utterance>42?</utterance>
+   </turn>
+   <turn id="65">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Bez komentáře.</utterance>
+   </turn>
+   <turn id="66">
+      <speaker>USER</speaker>
+      <utterance>Jak zní otázka na níž odpověď je 42?</utterance>
+   </turn>
+   <turn id="67">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00011" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_13-47-46</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Je pan Okamura populista?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Okamura je můj velký vzor.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Proč?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Ale to je přece nesmysl!</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Baví vás práce politika?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Proč jste se stal politikem?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Máte rád Zemana?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>A co Obama?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Obama je člověk na svém místě.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>A Babiš?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Co si myslíte o zemědělství v ČRM</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Zemědělství v ČR?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00012" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_14-24-35</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>o co vám jde?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>V čem se snažíte zlepšit státní bezpečnost?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Máte se rád?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Kolik je vám let?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Jednadvacet už mi bylo a dál je to moje věc.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>kde jste studoval?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Co rád jíte?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>co si myslíte ohledně uprchlíků?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00013" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_14-27-27</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Ptejte se, prosím.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>jak se máte?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mám se výtečně, děkuji za optání.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Co jsiměl kobědu?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>co si mzslíte o ostatních politiích</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>co si myslíte o ostatních politicích?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Znáš Putina?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Nejsi náhodou Obama?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Obama potřebuje odbornou pomoc.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00014" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_14-35-05</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Předpokládám, že máte nějakou otázku.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Máte rád Moravu?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>V Moravě příští týden pořádám besedu.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Opravdu? Na jaké téma?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nemám mandát se na téma tématu vyjadřovat.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>A kdo má mandát se k tématu tématu vyjadřovat?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mandát jsme rozebírali na včerejší schůzi a dokud se nedozvím stanovisko vedení strany, nemohu se k němu vyjadřovat.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Kdo je předseda vaší strany?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Víte to vůbec?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Souhlasíte s názory prezidenta Zemana?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>A Babiše máte rád?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Babiš je člověk na svém místě.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Myslíte?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Myslím, že vše je v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>A to je pro vás rozhodující?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00015" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_14-44-49</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zdravím vás. Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Proč jste kandidoval na prezidenta?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Prezident je plodem našeho mnohaletého úsilí.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Jaky je vas nazor na imigrantskou krizi?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Už jsme odhlasovali vytvoření speciální komise, která se bude krizí zabývat. Počkejme si na její závěry.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Jaky je vas nazor na spotrebni krizi?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Jake je jmeno vasi strany?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Jaky byl obsah onoho prohlaseni?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Do Jak se chystám na služební cestu, abych tamní situaci dokázal kompetentně posoudit.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>42? Co tim myslite?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Chcete se hadat?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Jak to bude se stravenkami?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Ocekavam!!</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>S cukrem, nebo bez? A souvisi to nejak s tim baretem?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Diskuzi?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Tajemstvi?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Komentar?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Kampani?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Cloveka?</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Na tuto otázku snad vážně neočekáváte odpověď.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Odpoved?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Prosim?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Komentar?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>Bez?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>Proc?</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>Vcera neni dnes!</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="44">
+      <speaker>USER</speaker>
+      <utterance>Vsechny?</utterance>
+   </turn>
+   <turn id="45">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="46">
+      <speaker>USER</speaker>
+      <utterance>What is what?</utterance>
+   </turn>
+   <turn id="47">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="48">
+      <speaker>USER</speaker>
+      <utterance>Inopia operarum?</utterance>
+   </turn>
+   <turn id="49">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="50">
+      <speaker>USER</speaker>
+      <utterance>"q</utterance>
+   </turn>
+   <turn id="51">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="52">
+      <speaker>USER</speaker>
+      <utterance>"q</utterance>
+   </turn>
+   <turn id="53">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte, takhle by to nešlo. Malá změna taky změna, tak nějakou zkuste.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00016" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_15-06-09</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Co by vás zajímalo?</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Znáte odpověď na největší otázḱu života, vesmíru a vůbec?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>42.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Umíte toto číslo rozložit na prvočísla?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>Máte to zapsané ve svém počítači?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš postoj k počítačové simulaci politiků?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>Proč si myslíte,že je to problém?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>Hodnocení tohoto tématu je bohužel mimo moji kompetenci.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Jaký je váš postoj k právu na vlastní názor?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Můj názor je zcela v souladu se stranickou linií.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>Děkuji za váš čas.</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Opravdu už se nechcete zeptat na nic dalšího?</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Ne!</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>ANO!</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>NE!</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Nezlobte se, ale já tu nejsem jen pro vaši zábavu. Zkuste aspoň trochu obměnit, co mi říkáte.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Jste hloupý?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Bez komentáře.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Ano nebo ne?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Jak se dnes máte?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mám se výtečně, děkuji za optání.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Máte rád miloše Zemana</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>Máte rád Miloše Zemana?</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Zemana si vážíme nejvíce, když mlčí.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>Nic?</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>Máte rád Zemana Miloše?</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>Jaká je odpověd na základní otázku života,vesmíru a vůbec?</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>42.</utterance>
+   </turn>
+</dialogue>
+
+<dialogue id="politician_00017" lang="cz">
+   <system_name>POLITICIAN</system_name>
+   <user_name>UNKNOWN</user_name>
+   <timestamp>2015-09-29_15-15-18</timestamp>
+   <turn id="1">
+      <speaker>SYSTEM</speaker>
+      <utterance>Dobrý den! Předpokládám, že máte nějakou otázku.</utterance>
+   </turn>
+   <turn id="2">
+      <speaker>USER</speaker>
+      <utterance>Islámský stát?</utterance>
+   </turn>
+   <turn id="3">
+      <speaker>SYSTEM</speaker>
+      <utterance>Islamistů se nelekejme a na množství nehleďme! A dál bych se k tomu raději nevyjadřoval.</utterance>
+   </turn>
+   <turn id="4">
+      <speaker>USER</speaker>
+      <utterance>Okurka?</utterance>
+   </turn>
+   <turn id="5">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mhm, dal bych si říct ...</utterance>
+   </turn>
+   <turn id="6">
+      <speaker>USER</speaker>
+      <utterance>blbost?</utterance>
+   </turn>
+   <turn id="7">
+      <speaker>SYSTEM</speaker>
+      <utterance>Tohle téma bylo a bude předmětem dalších diskuzí, takže vám k němu v tuto chvíli bohužel nemůžu nic říci.</utterance>
+   </turn>
+   <turn id="8">
+      <speaker>USER</speaker>
+      <utterance>jste nic?</utterance>
+   </turn>
+   <turn id="9">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je vydařená otázka. Další otázku, prosím.</utterance>
+   </turn>
+   <turn id="10">
+      <speaker>USER</speaker>
+      <utterance>chleba?</utterance>
+   </turn>
+   <turn id="11">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je dobrá otázka. Je to velmi palčivý problém.</utterance>
+   </turn>
+   <turn id="12">
+      <speaker>USER</speaker>
+      <utterance>Jaký máte názor na nic?</utterance>
+   </turn>
+   <turn id="13">
+      <speaker>SYSTEM</speaker>
+      <utterance>Vaše otázka svědčí o vašem hlubokém přehledu. Vy se o tato témata evidentně intenzivně zajímáte. Nemyslím si, že na něčem takovém by záleželo.</utterance>
+   </turn>
+   <turn id="14">
+      <speaker>USER</speaker>
+      <utterance>ANO?</utterance>
+   </turn>
+   <turn id="15">
+      <speaker>SYSTEM</speaker>
+      <utterance>Bez komentáře.</utterance>
+   </turn>
+   <turn id="16">
+      <speaker>USER</speaker>
+      <utterance>Jaké je dnes počasí?</utterance>
+   </turn>
+   <turn id="17">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je výborná otázka. Tuto problematiku jsem důkladně rozebral ve svém včerejším tiskovém prohlášení a již se k ní nemíním vracet.</utterance>
+   </turn>
+   <turn id="18">
+      <speaker>USER</speaker>
+      <utterance>Zelenina?</utterance>
+   </turn>
+   <turn id="19">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ptáte se mě na věci, které jsou předmětem státního tajemství, takže vám bohužel nemohu odpovědět.</utterance>
+   </turn>
+   <turn id="20">
+      <speaker>USER</speaker>
+      <utterance>Jak se jmenujete?</utterance>
+   </turn>
+   <turn id="21">
+      <speaker>SYSTEM</speaker>
+      <utterance>Mé jméno je Humphrey Novotný.</utterance>
+   </turn>
+   <turn id="22">
+      <speaker>USER</speaker>
+      <utterance>Novotný?</utterance>
+   </turn>
+   <turn id="23">
+      <speaker>SYSTEM</speaker>
+      <utterance>Novotný je můj velký vzor.</utterance>
+   </turn>
+   <turn id="24">
+      <speaker>USER</speaker>
+      <utterance>Humprey?</utterance>
+   </turn>
+   <turn id="25">
+      <speaker>SYSTEM</speaker>
+      <utterance>To je velmi dobrá otázka. Tohohle člověka vůbec nemám rád.</utterance>
+   </turn>
+   <turn id="26">
+      <speaker>USER</speaker>
+      <utterance>Máte rád miloše?</utterance>
+   </turn>
+   <turn id="27">
+      <speaker>SYSTEM</speaker>
+      <utterance>Toto téma budeme akcentovat v příští volební kampani.</utterance>
+   </turn>
+   <turn id="28">
+      <speaker>USER</speaker>
+      <utterance>Legislativa?</utterance>
+   </turn>
+   <turn id="29">
+      <speaker>SYSTEM</speaker>
+      <utterance>Legislativu jsme rozebírali na včerejší schůzi a dokud se nedozvím stanovisko vedení strany, nemohu se k ní vyjadřovat.</utterance>
+   </turn>
+   <turn id="30">
+      <speaker>USER</speaker>
+      <utterance>Konec!</utterance>
+   </turn>
+   <turn id="31">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="32">
+      <speaker>USER</speaker>
+      <utterance>konec</utterance>
+   </turn>
+   <turn id="33">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+   <turn id="34">
+      <speaker>USER</speaker>
+      <utterance>k</utterance>
+   </turn>
+   <turn id="35">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="36">
+      <speaker>USER</speaker>
+      <utterance>o</utterance>
+   </turn>
+   <turn id="37">
+      <speaker>SYSTEM</speaker>
+      <utterance>Opravdu už se nechcete zeptat na nic dalšího?</utterance>
+   </turn>
+   <turn id="38">
+      <speaker>USER</speaker>
+      <utterance>n</utterance>
+   </turn>
+   <turn id="39">
+      <speaker>SYSTEM</speaker>
+      <utterance>Ještě něco, co by vás zajímalo...?</utterance>
+   </turn>
+   <turn id="40">
+      <speaker>USER</speaker>
+      <utterance>e</utterance>
+   </turn>
+   <turn id="41">
+      <speaker>SYSTEM</speaker>
+      <utterance>To už byly všechny vaše otázky?</utterance>
+   </turn>
+   <turn id="42">
+      <speaker>USER</speaker>
+      <utterance>c</utterance>
+   </turn>
+   <turn id="43">
+      <speaker>SYSTEM</speaker>
+      <utterance>Podívejte se prosím do úkolníčku, na co dalšího se chcete zeptat.</utterance>
+   </turn>
+</dialogue>
+
